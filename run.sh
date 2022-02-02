@@ -15,5 +15,4 @@ if [ -z $APP_INTERPRETER_PATH ]; then
 fi
 
 
-cd src
 $APP_INTERPRETER_PATH/bin/python2 main.py
