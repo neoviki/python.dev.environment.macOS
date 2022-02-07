@@ -27,8 +27,8 @@ MODLIBS=        _MODLIBS_
 VERSION=	2.7
 srcdir=		.
 
-abs_srcdir=	/Users/viki/Documents/Project - Vikilabs - EFFITRAX Compactor Learning Engine/Python_Program/compactor_turn_off_detector/lib_src/src_python2.7.9/Python-2.7.9
-abs_builddir=	/Users/viki/Documents/Project - Vikilabs - EFFITRAX Compactor Learning Engine/Python_Program/compactor_turn_off_detector/lib_src/src_python2.7.9/Python-2.7.9
+abs_srcdir=	/Users/viki/Documents/Project_Python_Dev_Env_noGUI/source_code/python_dev_environment_macOS/lib_src/src_python2.7.9/Python-2.7.9
+abs_builddir=	/Users/viki/Documents/Project_Python_Dev_Env_noGUI/source_code/python_dev_environment_macOS/lib_src/src_python2.7.9/Python-2.7.9
 build=		x86_64-apple-darwin19.6.0
 host=		x86_64-apple-darwin19.6.0
 

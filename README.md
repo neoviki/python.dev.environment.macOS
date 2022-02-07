@@ -6,7 +6,7 @@ The idea behind this dev-env is for quick porting between different systems in y
 
 ## Configuration
 
-Mention the location to install Python interpretor for your project.
+Mention the location to install Python interpretor for your python application.
 
 refer: config.sh
 

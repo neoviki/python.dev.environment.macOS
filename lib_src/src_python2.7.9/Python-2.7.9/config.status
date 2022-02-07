@@ -433,7 +433,7 @@ Copyright (C) 2012 Free Software Foundation, Inc.
 This config.status script is free software; the Free Software Foundation
 gives unlimited permission to copy, distribute and modify it."
 
-ac_pwd='/Users/viki/Documents/Project - Vikilabs - EFFITRAX Compactor Learning Engine/Python_Program/compactor_turn_off_detector/lib_src/src_python2.7.9/Python-2.7.9'
+ac_pwd='/Users/viki/Documents/Project_Python_Dev_Env_noGUI/source_code/python_dev_environment_macOS/lib_src/src_python2.7.9/Python-2.7.9'
 srcdir='.'
 INSTALL='/usr/bin/install -c'
 MKDIR_P='./install-sh -c -d'
@@ -637,7 +637,7 @@ S["USE_SIGNAL_MODULE"]=""
 S["TCLTK_LIBS"]=""
 S["TCLTK_INCLUDES"]=""
 S["LIBFFI_INCLUDEDIR"]=""
-S["PKG_CONFIG"]="/opt/local/bin/pkg-config"
+S["PKG_CONFIG"]="/usr/local/bin/pkg-config"
 S["SHLIBS"]="$(LIBS)"
 S["CFLAGSFORSHARED"]=""
 S["LINKFORSHARED"]="-u _PyMac_Error"

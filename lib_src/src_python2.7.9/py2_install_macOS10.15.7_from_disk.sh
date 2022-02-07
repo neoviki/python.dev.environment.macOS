@@ -12,20 +12,19 @@
 # -----------------------------------------------------
 
 
-PYTHON_DIR="$HOME/mypy2"
 CURR_DIR=`pwd`
+#Python Source Location ( Disk )
+PYTHON_SOURCE_DISK="Python-2.7.9"
+
 sudo ls 1>/dev/null 2>/dev/null
 
-source ./config.sh
-
-if [ $? -ne 0 ]; then
-    echo "error: importing config.sh"
-    exit 1
-fi
 
 #Pass installation directory as argument 1 - if not in config
 if [ ! -z "$1" ]; then
     PYTHON_DIR="$1"
+else
+    echo "error_usage: pass the python installation directory"
+    exit 1
 fi
 
 echo "Installing Python @ $PYTHON_DIR"
