@@ -28,8 +28,8 @@ MODLIBS=        $(LOCALMODLIBS) $(BASEMODLIBS)
 VERSION=	2.7
 srcdir=		.
 
-abs_srcdir=	/Users/viki/Documents/Project_Python_Dev_Env_noGUI/source_code/python_dev_environment_macOS/lib_src/src_python2.7.9/Python-2.7.9
-abs_builddir=	/Users/viki/Documents/Project_Python_Dev_Env_noGUI/source_code/python_dev_environment_macOS/lib_src/src_python2.7.9/Python-2.7.9
+abs_srcdir=	/Users/viki/Documents/Documents_30GB_sciebo/isy_project_shadow_hand_ui/python_dev_environment_macOS/lib_src/src_python2.7.9/Python-2.7.9
+abs_builddir=	/Users/viki/Documents/Documents_30GB_sciebo/isy_project_shadow_hand_ui/python_dev_environment_macOS/lib_src/src_python2.7.9/Python-2.7.9
 build=		x86_64-apple-darwin19.6.0
 host=		x86_64-apple-darwin19.6.0
 

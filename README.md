@@ -15,8 +15,13 @@ refer: config.sh
 This is a one time setup for your project/specific application. Python interpretor and dependency libraries will be installed here.
 refer: setup.sh
 
+    - chmod +x setup.sh
+    - ./setup.sh
+
 ## Python Program Location
 refer: run.sh
+
+    - ./run.sh
 
 
 
